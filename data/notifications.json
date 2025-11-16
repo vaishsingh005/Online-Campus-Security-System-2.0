@@ -1,0 +1,17 @@
+[
+  {
+    "message": "New user registered: Vaishnavi Singh",
+    "type": "success",
+    "timestamp": "2025-11-16T16:07:21.891Z"
+  },
+  {
+    "message": "Vaishnavi Singh logged in successfully",
+    "type": "success",
+    "timestamp": "2025-11-16T16:07:35.876Z"
+  },
+  {
+    "message": "Vaishnavi Singh logged in successfully",
+    "type": "success",
+    "timestamp": "2025-11-16T16:15:05.629Z"
+  }
+]
